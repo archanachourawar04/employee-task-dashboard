@@ -7,10 +7,6 @@ A modern, responsive task management dashboard built with React and Vite, design
 <img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/e02666e7-d3aa-4e6d-a462-156abea79f28" />
 
 
-
-
-<img width="1891" height="895" alt="image" src="https://github.com/user-attachments/assets/77260290-d08d-4668-bf7f-2311675f953f" />
-
 ##  Features
 
 1. Task Management — Add, edit, delete, and mark tasks as completed
