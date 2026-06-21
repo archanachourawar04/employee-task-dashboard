@@ -39,39 +39,20 @@ A modern, responsive task management dashboard built with React and Vite, design
 - **main.jsx** — Entry point
 
 
-## 🚀 Setup Instructions
+##  Setup Instructions
 
 ### Prerequisites
 - Node.js (v16 or higher)
 - npm installed
 - Git installed
 
-## Steps to run locally
+### Steps to run locally
 
-1. Clone the repository
-\`\`\`
-git clone https://github.com/archanachourawar04/employee-task-dashboard.git
-\`\`\`
-
-2. Navigate into the project folder
-\`\`\`
-cd employee-task-dashboard
-\`\`\`
-
-3. Install dependencies
-\`\`\`
-npm install
-\`\`\`
-
-4. Start the development server
-\`\`\`
-npm run dev
-\`\`\`
-
-5. Open your browser and go to
-\`\`\`
-http://localhost:5173
-\`\`\`
+1. Clone the repository: `git clone https://github.com/archanachourawar04/employee-task-dashboard.git`
+2. Navigate into the project folder: `cd employee-task-dashboard`
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open your browser and go to: `http://localhost:5173`
 
  ##  Usage
 
