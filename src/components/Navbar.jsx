@@ -1,11 +1,11 @@
 function Navbar() {
   return (
-    <nav className="navbar navbar-dark bg-primary">
-      <div className="container">
-        <span className="navbar-brand mb-0 h1">
-          Employee Task Dashboard
-        </span>
-      </div>
+    <nav className="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+      <div className="container justify-content-center">
+    <span className="navbar-brand fw-bold fs-3">
+        Employee Task Dashboard
+    </span>
+</div>
     </nav>
   );
 }
