@@ -35,24 +35,12 @@ A modern, responsive task management dashboard built with React and Vite, design
 
 ##  Project Structure
 
-\`\`\`
-src/
-├── assets/
-├── components/
-│   ├── DashboardStats.jsx     # Stats summary (total/completed/pending)
-│   ├── FilterBar.jsx          # Search and filter controls
-│   ├── Navbar.jsx             # Top navigation bar
-│   ├── TaskCard.jsx           # Individual task card UI
-│   └── TaskForm.jsx           # Form to add/edit tasks
-├── pages/
-│   ├── AddTask.jsx            # Add task page/view
-│   └── Dashboard.jsx          # Main dashboard logic and layout
-├── styles/
-├── App.jsx
-├── App.css
-├── main.jsx
-└── index.css
-\`\`\`
+
+- **src/components/** — Reusable UI components (DashboardStats, FilterBar, Navbar, TaskCard, TaskForm)
+- **src/pages/** — Page-level components (AddTask, Dashboard)
+- **src/styles/** — CSS files
+- **App.jsx** — Root component
+- **main.jsx** — Entry point
 
  # Usage
 
