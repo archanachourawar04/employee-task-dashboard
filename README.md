@@ -2,7 +2,7 @@
 
 A modern, responsive task management dashboard built with React and Vite, designed to help teams track, organize, and manage employee tasks efficiently.
 
-# Screenshots 
+## Screenshots 
 
 <img width="1878" height="912" alt="image" src="https://github.com/user-attachments/assets/e02666e7-d3aa-4e6d-a462-156abea79f28" />
 
@@ -11,7 +11,7 @@ A modern, responsive task management dashboard built with React and Vite, design
 
 <img width="1891" height="895" alt="image" src="https://github.com/user-attachments/assets/77260290-d08d-4668-bf7f-2311675f953f" />
 
-# Features
+## Features
 
 1. Task Management — Add, edit, delete, and mark tasks as completed
 2. Drag & Drop — Reorder tasks intuitively using @dnd-kit for a smooth drag-and-drop experience
@@ -23,7 +23,7 @@ A modern, responsive task management dashboard built with React and Vite, design
 8. Responsive UI — Built with Bootstrap utility classes for a clean layout across devices
 
 
-# Tech Stack
+## Tech Stack
 
 1. React (with Hooks — useState, useEffect)
 2. Vite — fast development build tool
@@ -42,7 +42,7 @@ A modern, responsive task management dashboard built with React and Vite, design
 - **App.jsx** — Root component
 - **main.jsx** — Entry point
 
- # Usage
+ ## Usage
 
 1. Add a Task — Fill in the task form with title, description, priority, due date, employee name, and department.
 2. Manage Tasks — Use the action buttons on each task card to mark as complete, edit, or delete.
@@ -51,12 +51,12 @@ A modern, responsive task management dashboard built with React and Vite, design
 5. Switch Theme — Toggle dark/light mode from the navbar.
 6. Data Persistence — All changes are automatically saved to your browser's local storage.
 
- # Future Enhancements
+ ## Future Enhancements
 
 1. Backend integration with a database (replacing localStorage)
 2. User authentication and role-based access
 3. Task deadlines with reminder notifications
 4. Export tasks to PDF/Excel
 
-# Author
+## Author
 Archana Chourawar
